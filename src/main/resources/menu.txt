@@ -1,0 +1,87 @@
+{
+    "button": [
+        {
+            "type": "CLICK",
+            "name": "生活笔记",
+            "subButton": [
+                {
+                    "type": "VIEW",
+                    "name": "学习",
+                    "url": "https://hdy.im/blog/type?pageNum=0&typeId=0"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "生活",
+                    "url": "https://hdy.im/blog/type?pageNum=0&typeId=1"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "随笔",
+                    "url": "https://hdy.im/blog/type?pageNum=0&typeId=2"
+                }
+            ]
+        },
+        {
+            "type": "VIEW",
+            "name": "技术杂谈",
+            "subButton": [
+                {
+                    "type": "VIEW",
+                    "name": "JAVA",
+                    "url": "https://hdy.im/blog/type?pageNum=0&typeId=3"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "HTML",
+                    "url": "https://hdy.im/blog/type?pageNum=0&typeId=6"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "JS",
+                    "url": "https://hdy.im/blog/type?pageNum=0&typeId=7"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "Python",
+                    "url": "https://hdy.im/blog/type?pageNum=0&typeId=8"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "其他",
+                    "url": "https://hdy.im/blog/type?pageNum=0&typeId=9"
+                }
+            ]
+        },
+        {
+            "type": "CLICK",
+            "name": "更多内容",
+            "subButton": [
+                {
+                    "type": "VIEW",
+                    "name": "作品展示",
+                    "url": "https://hdy.im/project/MyProject.do"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "我的音乐",
+                    "key": "music"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "我的相册",
+                    "url": "https://hdy.im/image"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "我的闲视",
+                    "url": "https://hdy.im/movie/index.html#!fenye=1"
+                },
+                {
+                    "type": "VIEW",
+                    "name": "个人中心",
+                    "url": "https://hdy.im/login/manager"
+                }
+            ]
+        }
+    ]
+}
